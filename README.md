@@ -1,7 +1,4 @@
-======================================================================
-     DOCUMENTACIÓN TÉCNICA: SIMULADOR DE E-COMMERCE (ecommerce_m3.py)
-     REPOSITORIO: https://github.com/FleeInPaz/M3-Python-Tienda
-======================================================================
+---DOCUMENTACIÓN TÉCNICA: SIMULADOR DE E-COMMERCE (ecommerce_m3.py)---
 
 1. DESCRIPCIÓN GENERAL DEL SISTEMA
 ----------------------------------------------------------------------
